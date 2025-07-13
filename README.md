@@ -17,5 +17,5 @@ element.style.backgroundColor = "green";
 You can also change the elements name in case it is not set to "element"<br />
 thats it!
 
-Website:
+Website: 
 [CSS Styles To JS](https://css-styles-to-js.vercel.app/)
