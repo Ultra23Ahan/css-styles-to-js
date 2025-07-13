@@ -6,16 +6,16 @@ input:<br />
 ```css
 background-color: "green";
 ```
-<br /><br />
-output:<br />
+
+output:
 
 ```js
 element.style.backgroundColor = "green";
 ```
-<br /><br />
 
-You can also change the elements name in case it is nto set to "element"<br />
+
+You can also change the elements name in case it is not set to "element"<br />
 thats it!
-<br />
-Website:<br />
+
+Website:
 [CSS Styles To JS](https://css-styles-to-js.vercel.app/)
