@@ -7,7 +7,7 @@ input:<br />
 background-color: "green";```<br /><br />
 output:<br />
 ```js
-element.style.backgroundColor = "green";``<br /><br />
+element.style.backgroundColor = "green";```<br /><br />
 
 You can also change the elements name in case it is nto set to "element"<br />
 thats it!
